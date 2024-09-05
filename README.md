@@ -80,7 +80,7 @@ format the form like this:
    e.g. if you're too prideful, that's bad! who would've guessed!)
 
    **important:** the separator used is not a normal hyphen, the one on your keyboard,
-   but an em (—). copy it from below:
+   but an em dash (—). copy it from below:
 
    ```text
    pride — example
