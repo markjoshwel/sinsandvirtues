@@ -13,6 +13,10 @@ a joint project by lumi, anterillynn and mark
     - [source code](#source-code)
     - [the graph illustrator file](#the-graph-illustrator-file)
 
+![example graph](output/afterlife-example.png)
+
+![example graph, alternate design with text removed](output/afterlife-example-alt-var2.png)
+
 by the way, if you're here because it's one of the few public projects that string
 together illustrator and python, it's [unlicenced](#source-code) so do whatever
 
@@ -20,7 +24,7 @@ and if you're wondering how i could puppeteer illustrator, some adobe apps have
 a scripting interface that you can use to automate tasks, like illustrator's
 
 usually this is done through javascript but i'm hardheaded and used python instead,
-via pywin32, the windows' [component object model](https://en.wikipedia.org/wiki/Component_Object_Model)
+via: pywin32, the windows' [component object model](https://en.wikipedia.org/wiki/Component_Object_Model)
 interface, and deciphering the one illustrator vbscript reference guide pdf i found
 
 ## what is this?
@@ -73,7 +77,7 @@ format the form like this:
    the order doesn't really matter, but remember to replace 'example' with
    your name or your friends' names
 
-   neither what you use as the text for the upper and lower bounds of the range,
+   neither what you use as the text for the upper and lower bounds of the range matter,
    choose one that best fits your groups' lingo or something
 
    (but do remember that each end of the ranges is an extreme!
